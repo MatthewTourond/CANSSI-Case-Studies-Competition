@@ -13,4 +13,4 @@ Presentation (2019-10-03): https://www.youtube.com/watch?v=aOGnEHywIBc
 
 Won British Columbia regional competition (2019-10-8) 
 
-Participating in the national competition (2019-11-2)
+Participating in the national competition on (2019-11-2)
