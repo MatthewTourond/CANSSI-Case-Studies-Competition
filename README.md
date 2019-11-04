@@ -1,7 +1,7 @@
 # CANSSI NCSC Ferry Delays
 
 
-## Second place solution to the 2019 CANSSI National Case Studies Competition
+## First place solution to the 2019 CANSSI National Case Studies Competition
 
 Team Name: Overfit the Private Leaderboard
 
@@ -11,6 +11,6 @@ Kaggle leaderboard: https://www.kaggle.com/c/canssi-ncsc-ferry-delays/leaderboar
 
 Presentation (2019-10-03): https://www.youtube.com/watch?v=aOGnEHywIBc
 
-Won British Columbia regional competition (2019-10-8) 
+Won the British Columbia regional competition (2019-10-8) 
 
-Participating in the national competition on (2019-11-2)
+Won the National Competition (2019-11-2)
