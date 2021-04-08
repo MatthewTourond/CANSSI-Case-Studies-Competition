@@ -1,4 +1,4 @@
-# CANSSI national case studies competion Ferry Delays
+# CANSSI National Case Studies Competition
 
 
 ## First place solution to the 2019 CANSSI National Case Studies Competition
